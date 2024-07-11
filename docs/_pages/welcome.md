@@ -2,7 +2,6 @@
 permalink: /welcome/
 title: "Welcome"
 excerpt: "Welcome message."
-last_modified_at: 2024-05-27T11:59:26-04:00
 author_profile: false
 toc: false
 ---
