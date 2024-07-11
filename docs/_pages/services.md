@@ -2,6 +2,7 @@
 permalink: /services/
 title: "Our Services"
 excerpt: "aperceptron services."
+author_profile: false
 toc: false
 ---
 
