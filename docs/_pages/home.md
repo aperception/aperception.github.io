@@ -21,5 +21,4 @@ feature_row:
     alt: "Foudantion Model"
     title: "Foudantion Model"
 ---
-
 {% include feature_row %}
