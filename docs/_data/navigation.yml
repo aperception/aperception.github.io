@@ -20,6 +20,10 @@ foo:
 
 # main links
 main:
+  - title: "Quick Start"
+    url: /about/
+  - title: "Project"
+    url: /about/
   - title: "About"
     url: /about/
 
